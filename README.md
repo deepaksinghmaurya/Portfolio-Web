@@ -1,3 +1,3 @@
 # Portfolio-Web
-My personal portfolio website using technology like HTML , CSS and JavaScript.
-Website link: http://www.mauryagdeepak.com/
+My personal portfolio website using technologies like HTML , CSS and JavaScript.
+https://infallible-bassi-d752d4.netlify.app/
